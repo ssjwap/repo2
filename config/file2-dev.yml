@@ -1,2 +1,3 @@
 str2:
-    config:hello
+    prop:
+        config:hello
